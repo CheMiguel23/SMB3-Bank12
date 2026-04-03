@@ -1,0 +1,59 @@
+Bank12 Proprietary Freeware License
+
+Copyright (c) 2026 CheMiguel
+All rights reserved.
+
+This license applies to Bank12's own source code, project files, art, text,
+data, and other original assets, except where a file or dependency is covered
+by a separate third-party license or notice.
+
+Third-party components are documented in `THIRD_PARTY_NOTICES.md`.
+
+1. Permission to use official builds
+
+You may download, install, and use unmodified official releases of Bank12 free
+of charge for any lawful purpose.
+
+2. No source code or asset license
+
+No permission is granted to copy, modify, adapt, translate, publish,
+redistribute, sublicense, sell, lease, rent, lend, or create derivative works
+from Bank12's source code, project files, or original assets, in whole or in
+part, without prior written permission from the copyright holder.
+
+Unless the copyright holder gives written permission, you may not:
+
+- distribute source code
+- distribute modified builds
+- mirror official releases
+- remove copyright, trademark, attribution, or license notices
+- use the name "Bank12" or related branding to imply endorsement
+
+3. Reverse engineering
+
+You may not reverse engineer, decompile, or disassemble Bank12, except to the
+extent that applicable law expressly permits despite this limitation.
+
+4. Ownership
+
+Bank12 is licensed, not sold. All rights not expressly granted by this license
+are reserved by the copyright holder.
+
+5. Termination
+
+This license terminates automatically if you violate it. Upon termination, you
+must stop using and distributing Bank12 and destroy any unauthorized copies in
+your possession or control.
+
+6. No warranty
+
+BANK12 IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH
+BANK12 OR THE USE OF OR INABILITY TO USE BANK12.
