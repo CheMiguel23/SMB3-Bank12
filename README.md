@@ -11,8 +11,8 @@ Download Bank12.zip from the latest release, exctract and run.
 ## Requirements
 
 - Windows
-- A legally obtained `Super Mario Bros. 3` US `PRG1` ROM
-- An emulator if you want to use the in-app `Play` workflow
+- `Super Mario Bros. 3 (U) (PRG1) [!]` ROM
+- Make sure to provide path to your emulator in `Settings > Play > Path` to directly launch it from the editor
 
 ## What Bank12 Does
 
@@ -34,7 +34,7 @@ Download Bank12.zip from the latest release, exctract and run.
 
 A Bank12 project is a normal folder, and that folder is the editable source of truth. The imported ROM is kept separately, decoded data is stored in project files, and build output is written fresh when you export.
 
-The usual project contents are:
+The project contents are:
 
 - `project.b12` for project metadata
 - `base_rom/` for the imported ROM
