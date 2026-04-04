@@ -1,5 +1,6 @@
-/prtsc export-ignore
-/docs export-ignore
+.gitattributes export-ignore
+prtsc
+prtsc/** export-ignore
 LICENSE export-ignore
 README.md export-ignore
 THIRD_PARTY_NOTICES.md export-ignore
