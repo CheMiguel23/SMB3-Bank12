@@ -4,6 +4,8 @@ Bank12 is a project-based editor for the US `PRG1` release of `Super Mario Bros.
 
 This release is distributed as a packaged Windows application. Source code is not included here (yet).
 
+Download Bank12.zip from the latest release, exctract and run.
+
 ![Level Editor Main screen](level-editor.png)
 
 ## Requirements
