@@ -6,6 +6,8 @@ This release is distributed as a packaged Windows application. Source code is no
 
 Download Bank12.zip from the latest release, exctract and run.
 
+Manual is available at [USER-GUIDE.md](USER-GUIDE.md) (WIP)
+
 ![Level Editor Main screen](level-editor.png)
 
 ## Requirements
