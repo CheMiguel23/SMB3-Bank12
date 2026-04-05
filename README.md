@@ -1,10 +1,12 @@
 # Bank12
 
+Based on [captainsouthbird's "Disassembly of Super Mario Bros 3"](https://github.com/captainsouthbird/smb3) - without it, it won't be possible.
+
 Bank12 is a project-based editor for the US `PRG1` release of `Super Mario Bros. 3`. You import a legally obtained base ROM, edit decoded project data in a workspace, and rebuild a fresh ROM or BPS patch when you want output.
 
 This release is distributed as a packaged Windows application. Source code is not included here (yet).
 
-Download Bank12.zip from the latest release, exctract and run.
+Download Bank12.zip from the [latest release](https://github.com/CheMiguel23/SMB3-Bank12/releases/tag/Latest), exctract and run.
 
 A Short user manual is available at [USER-GUIDE.md](USER-GUIDE.md). If you have any questions, feel free to ask in [Discussions](https://github.com/CheMiguel23/SMB3-Bank12/discussions)
 
