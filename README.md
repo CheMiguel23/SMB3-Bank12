@@ -6,7 +6,9 @@ This release is distributed as a packaged Windows application. Source code is no
 
 Download Bank12.zip from the latest release, exctract and run.
 
-Manual is available at [USER-GUIDE.md](USER-GUIDE.md) (WIP)
+A Short user manual is available at [USER-GUIDE.md](USER-GUIDE.md). If you have any questions, feel free to ask in [Discussions](https://github.com/CheMiguel23/SMB3-Bank12/discussions)
+
+Meanwhile I'm compiling detailed guide on [Wiki](https://github.com/CheMiguel23/SMB3-Bank12/wiki) (very WIP)
 
 ![Level Editor Main screen](level-editor.png)
 
