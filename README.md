@@ -1,16 +1,22 @@
 # Bank12
 
-Based on [captainsouthbird's "Disassembly of Super Mario Bros 3"](https://github.com/captainsouthbird/smb3) - without it, it won't be possible.
+A project-based editor for the US `PRG1` release of **Super Mario Bros. 3**.
 
-Bank12 is a project-based editor for the US `PRG1` release of `Super Mario Bros. 3`. You import a legally obtained base ROM, edit decoded project data in a workspace, and rebuild a fresh ROM or BPS patch when you want output.
+Import a legally obtained base ROM, edit decoded project data across a suite of dedicated editors, and rebuild a fresh ROM or BPS patch when you're ready for output.
 
-This release is distributed as a packaged Windows application. Source code is not included here (yet).
+Based on [__captainsouthbird__'s Disassembly of Super Mario Bros. 3](https://github.com/captainsouthbird/smb3) - without it, this project would not be possible.
 
-Download Bank12.zip from the [latest release](https://github.com/CheMiguel23/SMB3-Bank12/releases/tag/Latest), exctract and run.
+## Getting Started
 
-A Short user manual is available at [USER-GUIDE.md](USER-GUIDE.md). If you have any questions, feel free to ask in [Discussions](https://github.com/CheMiguel23/SMB3-Bank12/discussions)
+Download `Bank12.zip` from the [latest release](https://github.com/CheMiguel23/SMB3-Bank12/releases/tag/Latest), extract, and run.
 
-Meanwhile I'm compiling detailed guide on [Wiki](https://github.com/CheMiguel23/SMB3-Bank12/wiki) (very WIP)
+A short user manual is available in [USER-GUIDE.md](USER-GUIDE.md).  
+
+A detailed Wiki is in progress at [Wiki](https://github.com/CheMiguel23/SMB3-Bank12/wiki).
+
+Distributed as a packaged Windows application. Source code is not included at this time.
+
+Questions, feedback, and bug reports are welcome in [Discussions](https://github.com/CheMiguel23/SMB3-Bank12/discussions).
 
 ![Level Editor Main screen](level-editor.png)
 
@@ -46,13 +52,6 @@ The project contents are:
 - `base_rom/` for the imported ROM
 - `levels/`, `worldmaps/`, `tilesets/`, and `text/` for editable data
 - `build/` for generated output such as `.nes` and `.bps`
-
-## Main Editors
-
-- `Level Editor`: room layout, objects, junctions, headers, and level-specific settings
-- `World Map Editor`: tiles, nodes, objects, shared map rules, and tile events
-- `CHR Editor`: metatiles, object graphics, and raw tile editing
-- `Text Editor`: letters, dialogs, HUD text, bonus text, and other in-game text
 
 ## Notes
 
